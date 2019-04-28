@@ -1,0 +1,8 @@
+{
+    "Niagara Falls":{"name":"Niagara Falls", "placeid":14303, "category":
+    ["Hiking"]},
+    "Destination A":{"name":"Destination A", "placeid":77, "category":
+    ["Ser423 Mobile Computing","Cse340 Language Design"]},
+    "Destination B":{"name":"Destination B", "placeid":77777, "category":
+    ["Cse445 Distributed Apps","Cse110 Programming I","Ser423 Mobile Computing"]}
+}
