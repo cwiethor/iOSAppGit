@@ -1,4 +1,5 @@
 {
+    "Json Niagara Falls":[{"name":"Json Niagara Falls"]},
     "Json Niagara Falls":{"name":"Json Niagara Falls", "placeid":14303, "category":
     ["Hiking Json Mountain Trails","Relax Json Great place to obtain peace"]},
     "Quetico Provincial Park":{"name":"Quetico Provincial Park", "placeid":10007, "category":
